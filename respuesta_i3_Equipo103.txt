@@ -112,3 +112,14 @@ f- Comandos utilizados en el punto 7
   505  git push -u origin vilchez
   506  history
 
+
+ALFA:
+
+git checkout main
+git pull
+git checkout vilchez
+echo "Marcos Laporte" >> beta.txt
+ifconfig >> beta.txt
+git add .
+git commit -m "ALFA sube punto 8"
+git push
