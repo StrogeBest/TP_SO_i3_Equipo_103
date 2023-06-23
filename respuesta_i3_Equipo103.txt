@@ -1,0 +1,98 @@
+a- Queda a la par con las dos ramas.
+b- Sí.
+c- Todos los comandos:
+  517  cd TP_SO_i3_Equipo103/
+  518  ls
+  519  cat /proc/cpuinfo
+  520  git pull
+  521  git branch
+  522  git branch
+  523  git checkout ROMERO
+  524  git branch
+  525  ls
+  526  git checkout main
+  527  ls
+  528  git checkout ROMERO
+  529  ls
+  530  cat datos.txt
+  531  cat CPUGamma.txt
+  532  clear
+  533  git checkout
+  534  git checkout main
+  535  ls
+  536  git pull
+  537  git checkout ROMERO
+  538  ls
+  539*
+  540  git pull
+  541  ls
+  542  cat datos.txt
+  543  git pull
+  544  ls
+  545  cat datos.txt
+  546  cat CPUAlfa.txt
+  547  ls
+  548  cat datos.txt
+  549  nano datos.txt
+  550  ipconfig
+  551  nano datos.txt
+  552  cat datos.txt
+  553  ls
+  554  touch CPUBeta.txt
+  555  cat /proc/cpuinfo
+  556  cat /proc/cpuinfo > CpuBeta.txt
+  557  ls
+  558  cat CPUBeta.txt
+  559  git status
+  560  git add .
+  561  git commit -m "BETA punto 2"
+  562  git push
+  563  git checkout main
+  564  git merge ROMERO
+  565  git status
+  566  git add .
+  567  git commit -m "Se realizo el merge"
+  568  git push
+  569  git checkout -b vilchez
+  570  git branch
+  571  touch beta.txt
+  572  ls
+  573  nano datos.txt
+  574  nano beta.txt
+  575*
+  576  cat ifconfig
+  577  cat ifconfig >> beta.txt
+  578  cat beta.txt
+  579  echo ifconfig >> beta.txt
+  580  cat beta.txt
+  581  nano beta.txt
+  582* cat ifconfig >> beta.txt
+  583  nano beta.txt
+  584  cat beta.txt
+  585  nano beta.txt
+  586  cat beta.txt
+  587  git add .
+  588  git commit -m "Cree el archivo beta.txt"
+  589  git push
+  590  git push origin vilchez
+  591  git checkout main
+  592  git pull
+  593  git checkout vilchez
+  594  cat beta.txt
+  595  git pull
+  596  ls
+  597  cat beta.txt
+  598  git pull
+  599  git pull origin vilchez
+  600  cat beta.txt
+  601  ls
+  602  git checkout main
+  603  git merge vilchez
+  604  ls
+  605  cat beta.txt
+  606  git add .
+  607  git commit -m "Hice el merge"
+  608  git push
+  609  touch respuesta_i3_Equipo103.txt
+  610  nano respuesta_i3_Equipo103.txt
+  611  history
