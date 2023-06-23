@@ -1,3 +1,5 @@
+BETA:
+
 a- Queda a la par con las dos ramas.
 b- Sí.
 c- Todos los comandos:
@@ -96,3 +98,17 @@ c- Todos los comandos:
   609  touch respuesta_i3_Equipo103.txt
   610  nano respuesta_i3_Equipo103.txt
   611  history
+
+GAMMA:
+d- Solo quedan con los datos que cargamos con el merge.
+e- Tuvimos que buscar información para utilizar el comando git merge.
+f- Comandos utilizados en el punto 7   
+  499  git pull
+  500  checkout vilches
+  501  git checkout vilches
+  502  git checkout vilchez
+  503  git add .
+  504  git commit -m "gamma punto 7"
+  505  git push -u origin vilchez
+  506  history
+
